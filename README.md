@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0203-remove-linked-list-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
