@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
