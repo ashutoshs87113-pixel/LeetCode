@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0901-online-stock-span) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
@@ -89,5 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
