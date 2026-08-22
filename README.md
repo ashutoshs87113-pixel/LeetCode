@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0002-add-two-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
 | ------- |
