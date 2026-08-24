@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0203-remove-linked-list-elements) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0007-reverse-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1927-sum-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
