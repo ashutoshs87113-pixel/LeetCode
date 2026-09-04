@@ -10,20 +10,15 @@
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         
-        if(root.val == p.val || root.val == q.val) return root;
+        if(root == null) return null;
 
-        boolean pInLeft = exists(root.left, p);
-        boolean qInLeft = exists(root.left, q);
+        if(root.val == p.val ||  root.val == q.val) return root;
 
-        if(pInLeft && qInLeft) return lowestCommonAncestor(root.left,p,q);
-        else if(!pInLeft && !qInLeft) return lowestCommonAncestor(root.right,p,q);
-
-        else return root;
-    }
-    public boolean exists(TreeNode root , TreeNode n){
-        if(root == null) return false;
-        if(root.val == n.val) return true;
-
-        return exists( root.left ,  n) || exists(root.right ,  n);
+        TreeNode left =lowestCommonAncestor(root.left,p,q);
+        TreeNode right = lowestCommonAncestor(root.right,p,q);
+        if(left != null && right != null) return root;
+        if(left == null) return right;
+        else
+         return left;
     }
 }
