@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1927-sum-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3731-find-missing-elements) |
 ## Combinatorics
