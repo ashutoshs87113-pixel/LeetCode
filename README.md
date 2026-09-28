@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3731-find-missing-elements) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3731-find-missing-elements) |
 ## Combinatorics
 |  |
