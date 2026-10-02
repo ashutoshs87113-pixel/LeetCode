@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3731-find-missing-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0062-unique-paths) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1927-sum-game) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
@@ -340,4 +343,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0938-range-sum-of-bst) |
+## Counting
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Number Theory
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
