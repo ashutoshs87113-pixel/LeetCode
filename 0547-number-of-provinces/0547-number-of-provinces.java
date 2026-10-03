@@ -1,6 +1,6 @@
 class Solution {
 
-    public void dfs(int i, boolean[] visited, int[][] isConnected){
+    public void bfs(int i, boolean[] visited, int[][] isConnected){
 
      int n = isConnected.length;
 
@@ -30,7 +30,7 @@ class Solution {
 
         for(int i = 0; i < n; i++){
             if(!visited[i]){
-                dfs(i,visited,isConnected);
+                bfs(i,visited,isConnected);
                 count++;
             }
         }
