@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
+| [0994-rotting-oranges](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0994-rotting-oranges) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
