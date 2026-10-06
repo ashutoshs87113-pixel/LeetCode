@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
 ## Manacher
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
 | [0994-rotting-oranges](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Greedy
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0994-rotting-oranges) |
