@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
