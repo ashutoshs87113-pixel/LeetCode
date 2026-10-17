@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -417,8 +420,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
