@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1143-longest-common-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Manacher
 |  |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
