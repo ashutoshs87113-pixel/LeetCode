@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0516-longest-palindromic-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1143-longest-common-subsequence) |
