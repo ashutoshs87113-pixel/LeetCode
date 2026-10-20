@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
