@@ -1,25 +1,35 @@
 class Solution {
+
+    public void replace(int ele, List<Integer> ans){
+
+        int lo = 0, hi = ans.size() - 1, lb = -1;
+
+        while(lo <= hi){
+
+            int mid = lo + (hi - lo)/2;
+
+            if(ans.get(mid) >= ele){
+                lb = mid;
+                hi = mid - 1;
+            }else{
+                lo = mid + 1;
+            }
+
+        }
+        ans.set(lb,ele);
+    }
     public int lengthOfLIS(int[] nums) {
         
-        int n = nums.length;
+        List<Integer> ans = new ArrayList<>();
 
-        int[] dp = new int[n];
-        int maxLen = 0;
-
-        Arrays.fill(dp,1);
-
-        for(int i = 0; i < n; i++){
-
-            int max = 0; 
-
-            for(int j = 0; j < i; j++){
-                if(nums[j] < nums[i]){
-                    max = Math.max(max, dp[j]);
-                }
-            }
-            dp[i]+= max;
-            maxLen = Math.max(maxLen, dp[i]);
+        for(int ele : nums){
+            if(ans.size() == 0 || ele > ans.get(ans.size()-1)) {
+                ans.add(ele);
+        }else{
+            replace(ele, ans);
         }
-        return maxLen;
+       
+    }
+     return ans.size();
     }
 }
