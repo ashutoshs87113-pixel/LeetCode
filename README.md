@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
