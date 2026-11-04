@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -528,4 +531,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
