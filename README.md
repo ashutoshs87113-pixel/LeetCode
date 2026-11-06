@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0493-reverse-pairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0493-reverse-pairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Sorting
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
@@ -555,4 +558,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
