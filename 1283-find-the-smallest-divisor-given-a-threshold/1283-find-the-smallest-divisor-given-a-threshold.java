@@ -2,10 +2,10 @@ class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         
         int lo = 1;
-        int hi = 0;
-        for(int num : nums){
-            hi = Math.max(hi, num);
-        }
+        int hi = (int)1e6;
+        // for(int num : nums){
+        //     hi = Math.max(hi, num);
+        // }
 
        int ans = -1;
 
