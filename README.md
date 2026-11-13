@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Sorting
 |  |
