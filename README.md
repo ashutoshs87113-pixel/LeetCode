@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
