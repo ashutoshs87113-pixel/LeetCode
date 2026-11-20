@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -250,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0901-online-stock-span) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
