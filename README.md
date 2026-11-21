@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0242-valid-anagram) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0138-copy-list-with-random-pointer) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0069-sqrtx) |
 | [0368-largest-divisible-subset](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0368-largest-divisible-subset) |
