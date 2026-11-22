@@ -5,19 +5,17 @@ class Solution {
         int n = s.length();
 
         for(int i = 0; i < n; i++){
-            int[] freq = new int[26];
+            HashMap<Character, Integer> map = new HashMap<>();
 
             for(int j = i; j < n; j++){
-                freq[s.charAt(j) - 'a']++;
+                map.put(s.charAt(j) , map.getOrDefault(s.charAt(j) ,0)+1);
 
                 int max = 0;
                 int min = Integer.MAX_VALUE;
 
-                for(int k = 0; k < 26; k++){
-                    if(freq[k] > 0){
-                        max = Math.max(max, freq[k]);
-                        min = Math.min(min, freq[k]);
-                    }
+                for(int freq : map.values()){
+                    max = Math.max(max, freq);
+                    min = Math.min(min, freq);
                 }
                 sum += max-min;
             }
