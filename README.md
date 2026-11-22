@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Number Theory
 |  |
