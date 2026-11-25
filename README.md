@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/1669-merge-in-between-linked-lists) |
