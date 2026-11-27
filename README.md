@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0707-design-linked-list) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ashutoshs87113-pixel/LinkedList/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashutoshs87113-pixel/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
